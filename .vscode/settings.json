@@ -1,0 +1,9 @@
+{
+    "editor.cursorBlinking": "solid",
+    "workbench.commandPalette.experimental.askChatLocation": "chatView",
+    "workbench.colorCustomizations": {
+
+    },
+    "workbench.preferredDarkColorTheme": "Kimbie Dark",
+    "workbench.preferredHighContrastColorTheme": "Abyss"
+}
